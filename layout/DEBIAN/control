@@ -4,6 +4,6 @@ Description: Tweaks that are for specific apps will have that app's icon as the 
 Essential: yes
 Author: ipad_kid <ipadkid358@gmail.com>
 Maintainer: ipad_kid <ipadkid358@gmail.com>
-Version: 0.4
+Version: 0.5
 Architecture: iphoneos-arm
 Section: System
